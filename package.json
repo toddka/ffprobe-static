@@ -9,7 +9,7 @@
   "@toddka/ffprobe-static": {
     "binary-path-env-var": "FFPROBE_BIN",
     "binary-release-tag-env-var": "FFPROBE_BINARY_RELEASE",
-    "binary-release-tag": "5.2.0",
+    "binary-release-tag": "b6.0",
     "binaries-url-env-var": "FFPROBE_BINARIES_URL",
     "executable-base-name": "ffprobe"
   },
